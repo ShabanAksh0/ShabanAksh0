@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShabanAksh0
-- 👀 I’m interested in Front end developing
+- 👀 I’m interested in Front end
 
 <!---
 ShabanAksh0/ShabanAksh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
